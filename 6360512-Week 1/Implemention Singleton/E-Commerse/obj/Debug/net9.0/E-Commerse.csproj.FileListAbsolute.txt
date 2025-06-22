@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\bin\Debug\net9.0\E-Commerse.exe
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\bin\Debug\net9.0\E-Commerse.deps.json
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\bin\Debug\net9.0\E-Commerse.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\bin\Debug\net9.0\E-Commerse.dll
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\bin\Debug\net9.0\E-Commerse.pdb
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\E-Commerse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\E-Commerse.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\E-Commerse.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\E-Commerse.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\E-Commerse.dll
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\refint\E-Commerse.dll
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\E-Commerse.pdb
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\E-Commerse.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\E-Commerse\obj\Debug\net9.0\ref\E-Commerse.dll

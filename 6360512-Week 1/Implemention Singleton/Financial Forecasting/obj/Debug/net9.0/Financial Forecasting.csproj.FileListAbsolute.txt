@@ -1,0 +1,14 @@
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.AssemblyInfoInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.AssemblyInfo.cs
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.exe
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.deps.json
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.runtimeconfig.json
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\bin\Debug\net9.0\Financial Forecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\refint\Financial Forecasting.dll
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.pdb
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\Financial Forecasting.genruntimeconfig.cache
+C:\Users\KIIT\OneDrive\Desktop\Financial Forecasting\obj\Debug\net9.0\ref\Financial Forecasting.dll
